@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Spacex2006
-- 👀 I’m interested in physcis, physical chemistry
+- 👀 I’m interested in physcis
 - 🌱 I’m currently learning c language
 - 💞️ I’m looking to collaborate on projects related to science
 - 📫 How to reach me- tarsh006@gmail.com
